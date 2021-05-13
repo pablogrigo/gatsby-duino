@@ -1,0 +1,12 @@
+.page {
+    color: #232129;
+    font-family: -apple-system, Roboto, sans-serif, serif;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.container {
+    background-color: #eeeeee;
+    margin: 0 auto;
+    padding: 4rem;
+}
